@@ -1,4 +1,5 @@
 # Final-Project-CINF
+Python-based data mining project
 
 ## Overview
 My final project is a Python-based data mining project designed to analyze CSV data under various parameters. Whether you're dealing with financial data, customer demographics, or sensor readings, my project offers a robust toolkit for extracting insights and patterns from your datasets.
